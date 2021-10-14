@@ -1,0 +1,26 @@
+.app-logo {
+    display:inline-block;
+    width: 100px;
+    pointer-events: none;
+    top: 0;
+  }
+  
+  .app-header {
+    display: flex;
+    flex-flow: row nowrap;
+    width: auto;
+    height: 50;
+    box-sizing: border-box;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    min-height: 47px;
+    padding: 0px 32px;
+    box-shadow: rgb(0 0 0 / 13%) 0px 6.4px 14.4px 0px, rgb(0 0 0 / 11%) 0px 1.2px 3.6px 0px;
+  }
+  
+  .app-header-font {
+    font-family: 'Emblema One', cursive;
+    font-size: 40px;
+    color: #2F4F4F;
+  }
+  

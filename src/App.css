@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.section-letf {
+  -webkit-text-size-adjust: 100%;
+  color: #17191d;
+  font-family: Lato,"Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: subpixel-antialiased;
+  box-sizing: border-box;
+  padding: 12px 0;
+  position: relative;
+  float: left;
+  width: 17%;
+  border-right: 1px solid #d8d8d8;
+  font-size: .6875rem;
+  overflow: hidden;
+  line-height: 1.4;
+  height: 600px;
+}
+
+.buttons {
+  margin: 5% 3;
+  width: 150px;
+}
+
+
