@@ -1,1 +1,1 @@
-export { default as Contact } from './About.jsx';
+export { default as About } from './About.jsx';
